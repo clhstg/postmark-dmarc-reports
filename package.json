@@ -1,0 +1,7 @@
+{
+  "name": "postmark-dmarc",
+  "module": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  }
+}
